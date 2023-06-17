@@ -48,8 +48,8 @@ body{
 }
 
 .estudante-iconi{
-   width: 23px;
+   width: 23spx;
 }
 .Estudante-titulo{
-    width: 95px;
+    width: ;
 }
