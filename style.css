@@ -48,8 +48,19 @@ body{
 }
 
 .estudante-iconi{
-   width: 23px;
+   width: 30px;
 }
-.Estudante-titulo{
-    width: 95px;
+
+.estudante-titulo{
+    text-align: center;
+    padding: 50px;
+}
+
+.estudante-div{
+   text-align: center;
+}
+
+.estudante-todos{
+   display: grid;
+ grid-template-columns: 20% 20% 20% 20% 20% ;
 }
